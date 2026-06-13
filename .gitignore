@@ -1,0 +1,27 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+build/
+**/build/
+**/.cxx/
+local.properties
+*.apk
+*.aab
+
+# Kotlin / Java
+*.class
+
+# macOS / editors
+.DS_Store
+.idea/workspace.xml
+.idea/caches/
+.idea/libraries/
+*.iml
+
+# Local secrets and scratch
+.env
+.env.*
+!.env.example
+tmp/
+scratch/
+screenshots/
