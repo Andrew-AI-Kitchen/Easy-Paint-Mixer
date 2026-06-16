@@ -2,13 +2,29 @@
 
 English | [简体中文](README.zh-CN.md)
 
-An open-source Android field assistant for comparing a target color with a live paint mix.
+An open-source Android field color assistant for comparing a target color with a live paint mix.
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+[Download APK](https://github.com/Andrew-AI-Kitchen/Easy-Paint-Mixer/releases) · [Release notes](docs/release-notes.md) · [Creator](https://github.com/Andrew-AI-Kitchen)
+
+![Easy-Paint-Mixer hero banner](docs/assets/easy-paint-mixer-hero-banner.jpg)
+
 ---
+
+## Preview
+
+Real-device shots from a tablet build:
+
+| Portrait | Chinese UI | Landscape |
+|---|---|---|
+| <img src="docs/assets/easy-paint-mixer-tablet-portrait-en-preview.jpg" alt="Easy-Paint-Mixer portrait English UI on tablet" width="260"> | <img src="docs/assets/easy-paint-mixer-tablet-portrait-zh-preview.jpg" alt="Easy-Paint-Mixer portrait Chinese UI on tablet" width="260"> | <img src="docs/assets/easy-paint-mixer-tablet-landscape-zh-preview.jpg" alt="Easy-Paint-Mixer landscape Chinese UI on tablet" width="360"> |
+
+<img src="docs/assets/easy-paint-mixer-demo.gif" alt="Easy-Paint-Mixer live sampling demo" width="280">
+
+**Demo video:** [easy-paint-mixer-demo-720p.mp4](docs/assets/easy-paint-mixer-demo-720p.mp4)
 
 ## Why
 

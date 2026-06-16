@@ -8,7 +8,23 @@
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+[下载 APK](https://github.com/Andrew-AI-Kitchen/Easy-Paint-Mixer/releases) · [版本说明](docs/release-notes.md) · [创作者主页](https://github.com/Andrew-AI-Kitchen)
+
+![Easy-Paint-Mixer 横幅海报](docs/assets/easy-paint-mixer-hero-banner.jpg)
+
 ---
+
+## 实机预览
+
+来自平板真机的实拍画面：
+
+| 竖屏英文 | 竖屏中文 | 横屏中文 |
+|---|---|---|
+| <img src="docs/assets/easy-paint-mixer-tablet-portrait-en-preview.jpg" alt="Easy-Paint-Mixer 平板竖屏英文界面" width="260"> | <img src="docs/assets/easy-paint-mixer-tablet-portrait-zh-preview.jpg" alt="Easy-Paint-Mixer 平板竖屏中文界面" width="260"> | <img src="docs/assets/easy-paint-mixer-tablet-landscape-zh-preview.jpg" alt="Easy-Paint-Mixer 平板横屏中文界面" width="360"> |
+
+<img src="docs/assets/easy-paint-mixer-demo.gif" alt="Easy-Paint-Mixer 实时取样演示" width="280">
+
+**演示视频：** [easy-paint-mixer-demo-720p.mp4](docs/assets/easy-paint-mixer-demo-720p.mp4)
 
 ## 为什么做 Easy-Paint-Mixer
 
